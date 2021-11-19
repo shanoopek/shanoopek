@@ -2,6 +2,7 @@
 - 👀 I’m interested in app development and competative programming,
 - 🌱 I’m currently learning flutter.
 - 💞️ I’m looking to collaborate on flutter projects.
+- I works as a part time in Chegg.com.
 - 📫 How to reach me  
 mail me @ muhammadshanoopek@gmail.com
 
